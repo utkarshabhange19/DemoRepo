@@ -40,6 +40,7 @@ public class Assingment1 {
 		}
 
 		System.out.println(sb.toString());
+		System.out.println("Hello World");
 	}
 
 }
